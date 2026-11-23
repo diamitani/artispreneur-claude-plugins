@@ -1,0 +1,30 @@
+{
+  "name": "artispreneur-booking-team",
+  "displayName": "Artispreneur Booking Agent",
+  "version": "1.1.1",
+  "description": "Artispreneur Booking Agent for independent musicians: Venues, tours, and booking pitches from the live directory. Use when an artist wants the booking agent to plan, draft or prioritize this kind of work. Drafts in the conversation only; it does not send, publish, file or pay for anything. Includes the desk as a Claude subagent and as a skill.",
+  "author": {
+    "name": "Artispreneur Inc.",
+    "email": "pat@artispreneur.com",
+    "url": "https://www.artispreneur.com"
+  },
+  "homepage": "https://www.artispreneur.com",
+  "repository": "https://github.com/diamitani/artispreneur-claude-plugins",
+  "license": "UNLICENSED",
+  "keywords": [
+    "booking agent",
+    "music agent",
+    "playlist pitching",
+    "industry contact finder",
+    "music business",
+    "independent artists",
+    "musicians",
+    "artist manager",
+    "artispreneur"
+  ],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://www.artispreneur.com/developers",
+  "supportUrl": "https://www.artispreneur.com/support",
+  "privacyPolicyUrl": "https://www.artispreneur.com/legal/privacy",
+  "termsOfServiceUrl": "https://www.artispreneur.com/legal/terms"
+}

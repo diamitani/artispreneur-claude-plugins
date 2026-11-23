@@ -1,0 +1,33 @@
+{
+  "name": "artispreneur",
+  "displayName": "Artispreneur",
+  "version": "1.1.1",
+  "description": "All 48 Artispreneur music business skills and all 7 Artispreneur desks as agents, plus the read-only Artispreneur MCP server, for independent musicians and artist managers: EPKs and bios, LLC, EIN and taxes, split sheets and contracts, PRO and royalty registration, release planning and distribution, content, merch, playlist, press and booking outreach. Drafts only; nothing is filed, sent, published or paid.",
+  "author": {
+    "name": "Artispreneur Inc.",
+    "email": "pat@artispreneur.com",
+    "url": "https://www.artispreneur.com"
+  },
+  "homepage": "https://www.artispreneur.com",
+  "repository": "https://github.com/diamitani/artispreneur-claude-plugins",
+  "license": "UNLICENSED",
+  "keywords": [
+    "music",
+    "EPK",
+    "release plan",
+    "royalties",
+    "LLC",
+    "booking",
+    "playlist pitching",
+    "music business",
+    "independent artists",
+    "musicians",
+    "artist manager",
+    "artispreneur"
+  ],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://www.artispreneur.com/developers",
+  "supportUrl": "https://www.artispreneur.com/support",
+  "privacyPolicyUrl": "https://www.artispreneur.com/legal/privacy",
+  "termsOfServiceUrl": "https://www.artispreneur.com/legal/terms"
+}

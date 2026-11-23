@@ -1,0 +1,31 @@
+{
+  "name": "artispreneur-media-outreach",
+  "displayName": "Artispreneur Media Pitching",
+  "version": "1.1.1",
+  "description": "Media Pitching for independent musicians: Personal pitch emails for every journalist and blog on your list. Draft-first Artispreneur skill; nothing is filed, sent, published or paid.",
+  "author": {
+    "name": "Artispreneur Inc.",
+    "email": "pat@artispreneur.com",
+    "url": "https://www.artispreneur.com"
+  },
+  "homepage": "https://www.artispreneur.com",
+  "repository": "https://github.com/diamitani/artispreneur-claude-plugins",
+  "license": "UNLICENSED",
+  "keywords": [
+    "media pitching",
+    "music blogs",
+    "journalists",
+    "outreach",
+    "outreach manager",
+    "music business",
+    "independent artists",
+    "musicians",
+    "artist manager",
+    "artispreneur"
+  ],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://www.artispreneur.com/developers",
+  "supportUrl": "https://www.artispreneur.com/support",
+  "privacyPolicyUrl": "https://www.artispreneur.com/legal/privacy",
+  "termsOfServiceUrl": "https://www.artispreneur.com/legal/terms"
+}
